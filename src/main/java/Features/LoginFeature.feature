@@ -11,5 +11,3 @@ Feature: feature to test login
     Examples: 
       | username      |  | password |
       | abd@gmail.com |  | test12   |
-
-  
